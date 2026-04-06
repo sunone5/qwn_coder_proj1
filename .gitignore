@@ -1,0 +1,32 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py~
+
+# Coverage
+.coverage
+coverage/
+htmlcov/
+
+# Dependencies
+.venv/
+venv/
+.env
+.env.local
+.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+```
